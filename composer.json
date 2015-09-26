@@ -1,0 +1,28 @@
+{
+  "name": "crypto_scythe/observ_r",
+  "description": "Dynamic Observer Pattern via PHP Traits",
+  "version": "1.0.0",
+  "keywords": [
+    "php",
+    "pattern",
+    "trait",
+    "observer",
+    "subject"
+  ],
+  "homepage": "https://github.com/crypto-scythe/observ_r",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Fasel",
+      "email": "crypto.scythe@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
